@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695929878 source:c:\users\brayo\onedrive\documentos\c_do_zero\multiplos arquivos\teste_2.c
+	"teste1.h"
+
+1695929878 c:\users\brayo\onedrive\documentos\c_do_zero\multiplos arquivos\teste1.h
+
+1695930179 source:c:\users\brayo\onedrive\documentos\c_do_zero\multiplos arquivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"teste1.h"
+

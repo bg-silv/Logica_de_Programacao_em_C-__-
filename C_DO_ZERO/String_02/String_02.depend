@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695149208 source:c:\users\brayo\onedrive\documentos\c_do_zero\string_02\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
+1695149208 source:c:\users\brayo\onedrive\documentos\c_do_zero\string_02\string_03.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
